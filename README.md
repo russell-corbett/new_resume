@@ -1,5 +1,5 @@
-# resume
+# Resume
 
-https://jackharrhy.github.io/resume/
+https://liamearle.ca/resume/
 
-based off of [petezh's Modular-Resume](https://github.com/petezh/Modular-Resume).
+thanks jack <3

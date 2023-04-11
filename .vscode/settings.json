@@ -1,0 +1,4 @@
+{
+	"luatex.library": ["all", "luatex", "lualatex", "lualibs", "luaotfload"]
+}
+  

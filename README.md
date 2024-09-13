@@ -1,5 +1,5 @@
 # Resume
 
-https://liamearle.ca/resume/
+https://russellcorbett.ca/resume/
 
-thanks jack <3
+thanks liam <3

@@ -23,7 +23,7 @@ jobs:
           mv resume.pdf output/
 
       - name: Commit PDF to gh-pages
-        uses: JamesIves/github-pages-deploy-action@v4.2.5
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: gh-pages
           folder: output
